@@ -81,7 +81,7 @@ When preparing for live national production with AICTE, here is how you connect 
 cd d:\SIH\apaar-platform
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [vidya-setu-aicte](https://vidya-setu-aicte.vercel.app/) in your browser.
 
 ### Building for Production
 ```bash
