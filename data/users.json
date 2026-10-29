@@ -1,0 +1,19 @@
+[
+  {
+    "id": "USR-1793203856859-985",
+    "email": "test.student@iitb.ac.in",
+    "password": "Password123",
+    "role": "student",
+    "name": "Test Student User",
+    "institution": "IIT Bombay",
+    "institutionId": "INST-749",
+    "designation": "Enrolled Student",
+    "apaarId": "4101 9988 7766",
+    "studentId": "STU/2026/2007",
+    "program": "Bachelor of Technology (Computer Science)",
+    "abcId": "ABC-260-453-933",
+    "credits": 120,
+    "cgpa": "8.85",
+    "registeredAt": "2026-10-28T16:10:56.859Z"
+  }
+]

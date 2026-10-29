@@ -1,0 +1,16 @@
+[
+  {
+    "id": "FDB-1793203898221",
+    "ticketNo": "VS-TKT-2026-29432",
+    "role": "student",
+    "category": "Data Correction Request",
+    "subject": "Spelling correction in father name",
+    "description": "Requesting amendment in APAAR demographic record to match 10th marksheet.",
+    "rating": 5,
+    "email": "test.student@iitb.ac.in",
+    "userName": "Test Student User",
+    "status": "Received",
+    "resolutionNote": "Ticket logged in AICTE central grievance registry under automated triage.",
+    "createdAt": "2026-10-28T16:11:38.221Z"
+  }
+]
